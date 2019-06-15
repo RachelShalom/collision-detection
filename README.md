@@ -23,3 +23,11 @@ this project was running on Google Deep Learning VM Based on: Debian GNU/Linux 9
 - sklearn
 - scipy
 - matplotlib
+### Results for base models:
+|               | Gradientboosting | Random Forest |
+| ------------- | ------------- | ------------------|
+|Accelerometer  | acc: 79.69% recall: 84% precision:80% | acc: 82% recall: 89% precision:81% |
+| Accel+Gyro  | acc: 79.32% recall: 85% precision:78% | acc: 81% recall: 87% precision:79% |            
+|Accel+ Gyro +GPS|acc: 82% recall: 88%  precision:81% | acc: 81.57% recall: 88% precision:79% |
+ 
+                         
