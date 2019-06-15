@@ -15,3 +15,11 @@ THe following files contained modeling and exploratory analysis:
 I created frames for a [gif](https://imgflip.com/gif/33dp6h) showing the gradientboosting predictions https://imgflip.com/gif/33dp6h
 - [modeling accel and gyro with gradientboosting.ipynb](https://github.com/RachelShalom/collision-detection/blob/master/modeling%20accel%20and%20gyro%20with%20gradientboosting.ipynb): modeling with 2 sensors
 - [modeling GPS accel and gyro with random forest.ipynb](https://github.com/RachelShalom/collision-detection/blob/master/modeling%20GPS%20accel%20and%20gyro%20with%20random%20forest.ipynb): modeling with 3 sensors
+### Prerequisites
+For the base models all python packages needed are listed in [requirements.txt](https://github.com/RachelShalom/collision-detection/blob/master/requirements.txt) file and can be installed simply using the pip command.
+this project was running on Google Deep Learning VM Based on: Debian GNU/Linux 9.8 (stretch) (GNU/Linux 4.9.0-8-amd64 x86_64\n)
+- numpy
+- pandas
+- sklearn
+- scipy
+- matplotlib
