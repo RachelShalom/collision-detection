@@ -9,9 +9,9 @@ THe data used for this project belong to the company I did the project for, henc
 - GPS (Csv file @ 1Hz)
 ### Code
 THe following files contained modeling and exploratory analysis:
-- Analyzing GPS Data.ipynb: an interactive map of GPS data to see any patterns based on location
-- modeling accel with random forest_-animation of video with bus-.ipynb: modeling with randomforest using only accelerometer
-- modeling accel with gradientboosting_-animation of video with bus.ipynb: modeling with gradientboosting using only accelerometer 
-I created frames for a gif showing the gradientboosting predictions: https://imgflip.com/gif/33dp6h
-- modeling accel and gyro with gradientboosting.ipynb: modeling with 2 sensors
-- modeling GPS accel and gyro with random forest.ipynb: modeling with 3 sensors
+- [Analyzing GPS Data.ipynb](https://github.com/RachelShalom/collision-detection/blob/master/Analyzing%20GPS%20Data.ipynb): an interactive map of GPS data to see any patterns based on location
+- [modeling accel with random forest_-animation of video with bus-.ipynb](https://github.com/RachelShalom/collision-detection/blob/master/modeling%20accel%20with%20random%20forest_-animation%20of%20video%20with%20bus-.ipynb): modeling with randomforest using only accelerometer
+- [modeling accel with gradientboosting_-animation of video with bus.ipynb](https://github.com/RachelShalom/collision-detection/blob/master/modeling%20accel%20with%20gradientboosting_-animation%20of%20video%20with%20bus.ipynb): modeling with gradientboosting using only accelerometer 
+I created frames for a [gif](https://imgflip.com/gif/33dp6h) showing the gradientboosting predictions https://imgflip.com/gif/33dp6h
+- [modeling accel and gyro with gradientboosting.ipynb](https://github.com/RachelShalom/collision-detection/blob/master/modeling%20accel%20and%20gyro%20with%20gradientboosting.ipynb): modeling with 2 sensors
+- [modeling GPS accel and gyro with random forest.ipynb](https://github.com/RachelShalom/collision-detection/blob/master/modeling%20GPS%20accel%20and%20gyro%20with%20random%20forest.ipynb): modeling with 3 sensors
